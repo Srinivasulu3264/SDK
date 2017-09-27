@@ -12,4 +12,6 @@
 
 -(void)butonPressedInBeerProjectVC:(UIViewController *)viewController ;
 
+-(void)testmethod ;
+
 @end

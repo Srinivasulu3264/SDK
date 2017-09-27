@@ -33,5 +33,10 @@
     [viewController.view addSubview:webView];
 }
 
+-(void)testmethod
+{
+    NSLog(@"Testing");
+}
+
 
 @end

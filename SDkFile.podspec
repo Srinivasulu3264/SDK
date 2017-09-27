@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
  
   s.name         = "SDkFile"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "BeerChipSDK is used to display the webpage."
 
  
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   
    s.ios.deployment_target = "9.0"
   
-  s.source       = { :git => "https://github.com/Srinivasulu3264/SDK.git", :tag => "0.0.1" , :commit => "0a0d160466a2d50d3575694fc349fa1883350db9"}
+  s.source       = { :git => "https://github.com/Srinivasulu3264/SDK.git", :tag => "0.0.2" , :commit => "f5ee6ea127ba27411ec8a9f240c3600fc7744483"}
 
  
   s.source_files  =  "SDkFile/*.{h,m}"
