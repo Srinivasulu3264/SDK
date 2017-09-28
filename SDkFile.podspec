@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   
    s.ios.deployment_target = "9.0"
   
-  s.source       = { :git => "https://github.com/Srinivasulu3264/SDK.git", :tag => "0.0.2" , :commit => "f5ee6ea127ba27411ec8a9f240c3600fc7744483"}
+  s.source       = { :git => "https://github.com/Srinivasulu3264/SDK.git", :tag => "0.0.2" , :commit => "07398aae9585a0b42034f23549e327c888fb592a"}
 
  
   s.source_files  =  "SDkFile/*.{h,m}"
