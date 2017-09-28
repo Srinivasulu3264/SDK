@@ -14,4 +14,6 @@
 
 -(void)testmethod ;
 
+-(void)testMethodForVersion ;
+
 @end

@@ -38,5 +38,10 @@
     NSLog(@"Testing");
 }
 
+-(void)testMethodForVersion
+{
+    NSLog(@"Testing versions");
+}
+
 
 @end
