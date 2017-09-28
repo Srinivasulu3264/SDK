@@ -33,20 +33,7 @@
     [viewController.view addSubview:webView];
 }
 
--(void)testmethod
-{
-    NSLog(@"Testing");
-}
 
--(void)testMethodForVersion
-{
-    NSLog(@"Testing versions");
-}
-
--(void)testMethodForVersionAndReview
-{
-    NSLog(@"Testing versions and review");
-}
 
 
 @end
